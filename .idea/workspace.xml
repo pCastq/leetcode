@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a58db43e-ffc0-4120-9194-fde6678980bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA/dynamicarray/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem4/MedianTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem9/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/JoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Object1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Object2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArray_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem2/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -36,9 +36,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "last_opened_file_path": "C:/Users/Ispanico/Documents/Java Projects/Exercises/leetcode/src",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
@@ -54,14 +61,23 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ispanico\Documents\Java Projects\Exercises\leetcode\src" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="zero_101_array.problem88" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zero_101_array.problem88" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateZeros">
-    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem1089.DuplicateZeros" />
+  <component name="RunManager" selected="Application.MergeSortedArray">
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zero_101_array.problem1089.*" />
+          <option name="PATTERN" value="zero_101_array.problem88.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,65 +85,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNumbersWithEvenNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem1295.FindNumbersWithEvenNumberOfDigits" />
+    <configuration name="MergeSortedArrayTest.testToMerge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zero_101_array.problem1295.*" />
+          <option name="PATTERN" value="zero_101_array.problem88.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="zero_101_array.problem88" />
+      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArrayTest" />
+      <option name="METHOD_NAME" value="testToMerge" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem485.MaxConsecutiveOnes" />
+    <configuration name="MergeSortedArrayTest.testToMerge2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zero_101_array.problem485.*" />
+          <option name="PATTERN" value="zero_101_array.problem88.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="zero_101_array.problem88" />
+      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArrayTest" />
+      <option name="METHOD_NAME" value="testToMerge2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zero_101_array.Prove" />
+    <configuration name="MergeSortedArrayTest.testToMerge3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zero_101_array.problem1089.*" />
+          <option name="PATTERN" value="zero_101_array.problem88.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="zero_101_array.problem88" />
+      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArrayTest" />
+      <option name="METHOD_NAME" value="testToMerge3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem977.SquaresOfSortedArray" />
+    <configuration name="MergeSortedArrayTest.testToMerge4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zero_101_array.problem977.*" />
+          <option name="PATTERN" value="zero_101_array.problem88.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="zero_101_array.problem88" />
+      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArrayTest" />
+      <option name="METHOD_NAME" value="testToMerge4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DuplicateZeros" />
-        <item itemvalue="Application.Prove" />
-        <item itemvalue="Application.SquaresOfSortedArray" />
-        <item itemvalue="Application.FindNumbersWithEvenNumberOfDigits" />
-        <item itemvalue="Application.MaxConsecutiveOnes" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge4" />
+        <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge3" />
+        <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge2" />
+        <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +307,26 @@
           <url>file://$PROJECT_DIR$/src/zero_101_array/Prove.java</url>
           <line>11</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArray_.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArrayTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArray.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArrayTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
