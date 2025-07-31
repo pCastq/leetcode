@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -71,7 +71,7 @@
       <recent name="zero_101_array.problem88" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSortedArray">
+  <component name="RunManager" selected="Application.RemoveElement">
     <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArray" />
       <module name="leetcode" />
@@ -85,18 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArrayTest.testToMerge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem27.RemoveElement" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zero_101_array.problem88.*" />
+          <option name="PATTERN" value="zero_101_array.problem27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="zero_101_array.problem88" />
-      <option name="MAIN_CLASS_NAME" value="zero_101_array.problem88.MergeSortedArrayTest" />
-      <option name="METHOD_NAME" value="testToMerge" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveElement" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge4" />
         <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge3" />
         <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge2" />
-        <item itemvalue="JUnit.MergeSortedArrayTest.testToMerge" />
       </list>
     </recent_temporary>
   </component>
@@ -317,11 +314,6 @@
           <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArrayTest.java</url>
           <line>19</line>
           <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArray.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zero_101_array/problem88/MergeSortedArrayTest.java</url>
